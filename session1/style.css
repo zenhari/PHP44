@@ -3,3 +3,21 @@ p{
     color: black;
     background-color: yellow;
 }
+.content{
+    font-size: 30;
+    color: white;
+    background-color: red;
+}
+.mehdi{
+    font-size:40;
+    background-color: black;
+    color: white;
+}
+.profile_image{
+    width: 300px;
+    height: auto;
+}
+#light_red{
+    color: red;
+    background-color: yellow;
+}
