@@ -1,23 +1,52 @@
-p{
+@font-face {
+    font-family: Vazir;
+    src: url(assets/font/Vazir.eot);
+    src: url(assets/font/Vazir.ttf);
+    src: url(assets/font/Vazir.woff);
+    src: url(assets/font/Vazir.woff2);
+}
+
+@font-face {
+    font-family: Shokoh;
+    src: url(assets/font/ShokohBold);
+    src: url(assets/font/ShokohBold.ttf);
+    src: url(assets/font/ShokohBold.woff);
+    src: url(assets/font/ShokohBold.woff2);
+}
+
+p {
     font-size: 22px;
     color: black;
     background-color: yellow;
 }
-.content{
+
+.content {
     font-size: 30;
     color: white;
     background-color: red;
 }
-.mehdi{
-    font-size:40;
+
+.mehdi {
+    font-size: 40;
     background-color: black;
     color: white;
 }
-.profile_image{
+
+.profile_image {
     width: 300px;
     height: auto;
 }
-#light_red{
+
+#light_red {
     color: red;
     background-color: yellow;
 }
+
+.fa_title {
+    font-family: Shokoh;
+    font-size: 150px;
+    text-align: center;
+    color: rgb(33, 33, 33);
+    background-color: yellow;
+}
+
